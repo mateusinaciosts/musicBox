@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/cross_device_remote_controller/BuildConfig.java
+ com.example.cross_device_remote_controller.BuildConfig
