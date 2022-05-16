@@ -1,8 +1,0 @@
-io/flutter/plugins/firebase/installations/firebase_app_installations/FlutterFirebaseAppRegistrar.java
- io.flutter.plugins.firebase.installations.firebase_app_installations.FlutterFirebaseAppRegistrar
-io/flutter/plugins/firebase/installations/firebase_app_installations/FirebaseInstallationsPlugin.java
- io.flutter.plugins.firebase.installations.firebase_app_installations.FirebaseInstallationsPlugin
-io/flutter/plugins/firebase/installations/firebase_app_installations/BuildConfig.java
- io.flutter.plugins.firebase.installations.firebase_app_installations.BuildConfig
-io/flutter/plugins/firebase/installations/firebase_app_installations/TokenChannelStreamHandler.java
- io.flutter.plugins.firebase.installations.firebase_app_installations.TokenChannelStreamHandler
